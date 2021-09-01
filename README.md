@@ -8,7 +8,7 @@ to all parts of the body.
 
 # Following Topics have been covered here:-
 
-*Dataset Uploading : 
+* Dataset Uploading : 
 There are 15 classes (one is “No findings” and another 14 diseases) in the our dataset, but this dataset is 5% of the nih x-ray
 dataset, various classes are scarce marked as “No findings”: Atelectasis - 508 images, Pneumonia-62 images, Hernia-13 images,
 Edema-118 images, Emphysema-127 images, Cardiomegaly-141 images, Fibrosis-84 images, Pneumothorax-271 images,
@@ -26,5 +26,10 @@ We have a csv file (sample.csv) which consists of the following column -
 ● OriginalImageHeight
 ● OriginalImagePixelSpacing_x
 ● Original Image Pixel Spacing y
-*
-***
+* Data Preprocessing 
+* Data Augmentation
+* Model Preparation
+* Result
+
+
+
